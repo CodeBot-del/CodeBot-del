@@ -2,8 +2,7 @@
 - 👀 I’m interested in Machine learning, Data Science and Software Engineering. I am also 
      an open source maintainer with more than 29 public repos. 
 - 🌱 I’m currently learning Go, Rust, and also the Microservices Architecture using NodeJS.
-- 👽 Currently working on an open source project called Sentiment Analysis for Swahili Language with Deep Learning, 
-     and the Swahili bag of words model to help developers use the model to perform NLP on Swahili language.
+- 👽 Currently working on an open source project to develop a Smart Web Authentication with facial recognition and several other machine learning techniques.
 - 💞️ I’m looking to collaborate on ML/AI projects, software development projects, and mobile development.
 
 - 📫 Reach me via 
