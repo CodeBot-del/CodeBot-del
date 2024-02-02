@@ -1,13 +1,11 @@
-- 👋 Hi, I’m Stephen Manangu, here on github am @CodeBot-del
-- 👀 I’m interested in Machine learning, Data Science and Software Engineering. I am also 
-     an open source maintainer with more than 29 public repos. 
-- 🌱 I’m currently learning Go and Rust.
-- 👽 Currently working on an open source project to develop a Smart Web Authentication with facial recognition and several other machine learning techniques.
-- 💞️ I’m looking to collaborate on ML/AI projects, software development projects, and mobile development.
+- 👋 Hi, I’m Stephen Manangu, a Machine Learning Engineer, here on GitHub am @CodeBot-del.
+- 👀 I’m interested in Machine learning, Data Science, and Software Engineering. Also an open-source maintainer. 
+- 🌱 I’m currently learning Rust.
+- 👽 Leading an ML/AI Community building open-source Machine Learning & AI tools that serve as a go-to solution pool for the Tanzanian Developers Community.
+- 💞️ Talks and writes about Machine Learning & AI.
 
 - 📫 Reach me via 
-      WhatsApp: +255658174914
-      Linkedin: https://www.linkedin.com/in/steven-manangu-8380391ba
+      Linkedin: `https://www.linkedin.com/in/steven-manangu-8380391ba`
 
       Email: stevenmanangu360@gmail.com
 
