@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephen Manangu, a Machine Learning Engineer building VarsityMart e-Commerce, here on GitHub am @CodeBot-del.
-- 👽 Leading an ML/AI Community building open-source Machine Learning & AI tools that serve as a go-to solution pool for the Tanzanian Developers Community.
+- 👽 Releasing ML/AI open-source tools as a hobby.
 - 💞️ Talks and writes about Machine Learning & AI.
 
 - 📫 Reach me via 
